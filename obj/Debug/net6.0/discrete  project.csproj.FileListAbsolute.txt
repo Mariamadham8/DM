@@ -1,0 +1,15 @@
+C:\Users\Mariem\Documents\discrete  project\bin\Debug\net6.0\discrete  project.exe
+C:\Users\Mariem\Documents\discrete  project\bin\Debug\net6.0\discrete  project.deps.json
+C:\Users\Mariem\Documents\discrete  project\bin\Debug\net6.0\discrete  project.runtimeconfig.json
+C:\Users\Mariem\Documents\discrete  project\bin\Debug\net6.0\discrete  project.dll
+C:\Users\Mariem\Documents\discrete  project\bin\Debug\net6.0\discrete  project.pdb
+C:\Users\Mariem\Documents\discrete  project\obj\Debug\net6.0\discrete  project.csproj.AssemblyReference.cache
+C:\Users\Mariem\Documents\discrete  project\obj\Debug\net6.0\discrete  project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariem\Documents\discrete  project\obj\Debug\net6.0\discrete  project.AssemblyInfoInputs.cache
+C:\Users\Mariem\Documents\discrete  project\obj\Debug\net6.0\discrete  project.AssemblyInfo.cs
+C:\Users\Mariem\Documents\discrete  project\obj\Debug\net6.0\discrete  project.csproj.CoreCompileInputs.cache
+C:\Users\Mariem\Documents\discrete  project\obj\Debug\net6.0\discrete  project.dll
+C:\Users\Mariem\Documents\discrete  project\obj\Debug\net6.0\refint\discrete  project.dll
+C:\Users\Mariem\Documents\discrete  project\obj\Debug\net6.0\discrete  project.pdb
+C:\Users\Mariem\Documents\discrete  project\obj\Debug\net6.0\discrete  project.genruntimeconfig.cache
+C:\Users\Mariem\Documents\discrete  project\obj\Debug\net6.0\ref\discrete  project.dll
